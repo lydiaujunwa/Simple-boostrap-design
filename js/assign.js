@@ -11,3 +11,4 @@ const arr1 = [21,'Afams Val',30,'Unizik']
 
 const [goat, sheep, cat, red] = arr1
 console.log(red,goat)
+console.log('working fine')
